@@ -27,7 +27,7 @@ const AboutSummary = () => {
             >
               <h3>Who We Are</h3>
               <p>
-              Started 2019 in Sawonjo town, Ogun state. While we initially focused on helping farmers develop sustainable businesses, we have since built on that strong foundation to expand our services across the environment, industry and communities.
+              Haristec Global Limited started in Sawonjo town, Ogun state in 2019. While we initially focused on helping farmers develop sustainable businesses, we have since built on that strong foundation to expand our services across the environment, industry and communities.
               </p>
             </div>
             <div className="section-wrapper">
