@@ -48,7 +48,7 @@ const Testimonials = () => {
                     <img src="assets/images/testimonial/02.png" alt="testimonial" />
                   </div>
                   <div className="testi-clients">
-                    <h5>Richard Riss</h5>
+                    <h5>Adebukola Thomas</h5>
                     <p>Plant Scientist</p>
                     <div className="rating">
                       <i className="far fa-star" />
@@ -60,7 +60,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <div className="testi-body">
-                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec Agro delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
+                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>We consulted Haristec for our farm's irrigation systems and they delivered the best and most effective solution specifically tailored to our circumstance.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
                 </div>
               </div>
             </div>
@@ -88,7 +88,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <div className="testi-body">
-                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec Agro delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
+                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec has been our go to solution provider for the past 3 years. From farm planning to irrigation engineering, they've been consistent with excellent.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
                 </div>
               </div>
             </div>
