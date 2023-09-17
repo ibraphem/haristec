@@ -25,9 +25,9 @@ const AboutSummary = () => {
               className="section-header text-start wow fadeInUp"
               data-wow-delay="0.3s"
             >
-              <h3>Haristec Agro Qaulity Assuarance Process.</h3>
+              <h3>Who We Are</h3>
               <p>
-                We pride ourselves in the culture of excellence and adherance to international standards and best practices in production.
+              Started 2019 in Sawonjo town, Ogun state. While we initially focused on helping farmers develop sustainable businesses, we have since built on that strong foundation to expand our services across the environment, industry and communities.
               </p>
             </div>
             <div className="section-wrapper">
@@ -38,10 +38,10 @@ const AboutSummary = () => {
                   </div>
                   <div className="about-content">
                     
-                      <h5>Unique Expertise</h5>
+                      <h5>Our purpose</h5>
                     
                     <p>
-                      Our staffs and managers are highly trained professionals who are hospitable and with great sense of humour.
+                    Haristec Agro creates change for our clients and ourselves whilst having a positive impact on society and the environment.
                     </p>
                   </div>
                 </div>
@@ -53,10 +53,10 @@ const AboutSummary = () => {
                   </div>
                   <div className="about-content">
                     
-                      <h5>Standardized Operations</h5>
+                      <h5>Our values</h5>
                     
                     <p>
-                      We continually evolved to stay ahead with best modern practices.
+                    We care for our employees and clients and pride ourselves on our integrity and willingness to be honest in our advice.
                     </p>
                   </div>
                 </div>

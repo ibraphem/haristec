@@ -7,8 +7,7 @@ const Hero = () => {
         <div className="banner-content">
           <div className="banner-title">Haristec Agro</div>
           <div className="banner-desc">
-            We grow and process high quality agricultural products for safe consumption.
-            We also care about your health and recreational needs.
+          Haristec Agro is a multi-disciplinary consultancy specialising in environment, agriculture and communities
           </div>
           <Link to="/about" className="lab-btn">
             <span>Discover Us</span>
