@@ -32,7 +32,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <div className="testi-body">
-                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Arikobs Farms delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
+                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec Agro delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
                 </div>
               </div>
             </div>
@@ -60,7 +60,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <div className="testi-body">
-                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Arikobs Farms delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
+                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec Agro delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
                 </div>
               </div>
             </div>
@@ -88,7 +88,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <div className="testi-body">
-                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Arikobs Farms delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
+                  <p><span className="img-left"><img src="assets/images/testimonial/qute.png" alt="quete" /></span>Haristec Agro delivers top notch services in diary management. My experience with them is awesome and I will always recommend them to diary farmers.<span className="img-right"><img src="assets/images/testimonial/quete-left.png" alt="quete" /></span></p>
                 </div>
               </div>
             </div>

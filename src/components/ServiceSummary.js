@@ -33,7 +33,7 @@ const ServiceSummary = () => {
         <div className="section-header wow fadeInUp" data-wow-delay="0.3s">
           <h3>Products</h3>
           <p>
-            We are unique beacuse we hold ourselves to the highest possible standard in the agro-business.
+            We are unique because we hold ourselves to the highest possible standard in the agro-business.
           </p>
         </div>
         <div className="section-wrapper">
@@ -121,7 +121,7 @@ const ServiceSummary = () => {
                   </div>
                   <div className="feature-content">
                     
-                      <h5>Diferent Livestock</h5>
+                      <h5>Different Livestock</h5>
                    
                     <p>Diary and breeding quality.</p>
                   </div>
